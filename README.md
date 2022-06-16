@@ -1,6 +1,10 @@
 # This is an <h1> header, which is the largest
 ## This is an <h2> header
 ###### This is an <h6> header, which is the smallest
+  ```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
   <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
